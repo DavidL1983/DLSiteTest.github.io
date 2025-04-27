@@ -1,1 +1,10 @@
-Welcomer to DLSiteTest where I and others can test my projects.
+index.html
+styles.css
+PSCards_AdHominem.png
+PSCards_AppealToEmotion.png
+PSCards_FalseCause.png
+PSCards_PersonalIncredulity.png
+PSCards_SlipperySlope.png
+PSCards_Strawman.png
+PSCards_TheFallacyFallacy.png
+PSCards_TuQuoque.png
